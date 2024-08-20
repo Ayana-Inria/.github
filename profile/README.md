@@ -1,4 +1,4 @@
-Here you will find publicly available codes from the Ayana team at Inria, Université Côte d'Azur, lead by Josiane Zerubia.
+Here you will find publicly available codes from the Ayana team at Inria, Université Côte d'Azur, led by Josiane Zerubia.
 
 ## Research directions
 The Ayana AEx is an interdisciplinary project using knowledge in stochastic modeling, image processing, artificial intelligence, remote sensing and embedded electronics/computing.
